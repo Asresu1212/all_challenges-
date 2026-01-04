@@ -1,0 +1,37 @@
+.root {
+    -fx-background-color: #0B1C2D;
+    -fx-padding: 20;
+    -fx-font-family: Arial;
+}
+
+.city-label {
+    -fx-text-fill: white;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.temp-label {
+    -fx-text-fill: #FF8C00;
+    -fx-font-size: 48px;
+    -fx-font-weight: bold;
+}
+
+.condition-label {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+
+.label {
+    -fx-text-fill: #E0E0E0;
+}
+
+.compass {
+    -fx-fill: #3A3F45;
+    -fx-stroke: #FF8C00;
+    -fx-stroke-width: 3;
+}
+
+.forecast {
+    -fx-padding: 15;
+    -fx-background-color: #3A3F45;
+}
